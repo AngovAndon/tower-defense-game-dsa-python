@@ -19,6 +19,13 @@ problem-solving in a real-time environment.
 - Persistent scoring system with saved high scores
 - Background music and sound effects (pygame)
 
+## Algorithms & Data Structures Used
+- Breadth-First Search (BFS) for enemy path generation
+- Graph representation of the map grid
+- Queue for enemy wave management
+- Stack for gameplay/state handling
+- Spatial range checks for tower targeting
+
 ## Tech Stack
 - Python 3.12
 - pygame
